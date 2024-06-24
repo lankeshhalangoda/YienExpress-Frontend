@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhcXLaWdiuLQ4jGrTFoPWsHkvz2HLMrfsSdpKZKp00ilgomZTO0CAhXhZUmgGnlm2+NydEfsJR5aPblViQi+AQ==",
+  "success": true,
+  "projectFilePath": "D:\\ICBT\\Assignments\\4TH SEMESTER\\SOC\\L.B.Halangoda - SOC Individual - (KD-HDCSE-CMU-55-14)\\yienfrontend\\yienfrontend\\yienfrontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lanke\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\lanke\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
